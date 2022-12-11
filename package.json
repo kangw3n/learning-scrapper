@@ -9,7 +9,7 @@
     "cron": "^1.7.1",
     "dotenv": "^8.0.0",
     "ejs": "^2.6.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-ejs-layouts": "^2.5.0",
     "get-urls": "^9.1.0",
     "moment": "^2.24.0",
